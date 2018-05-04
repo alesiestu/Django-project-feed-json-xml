@@ -126,3 +126,5 @@ def ip_addresses():
 # Discover our IP address
 ALLOWED_HOSTS = ip_addresses()
 
+JET_DEFAULT_THEME = 'green'
+JET_SIDE_MENU_COMPACT = True
