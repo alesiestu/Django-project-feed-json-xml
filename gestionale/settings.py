@@ -40,6 +40,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'conto',
+    'read_only_admin',
 )
 
 MIDDLEWARE_CLASSES = (
