@@ -7,7 +7,7 @@ from conto.models import Bill
 class lista(admin.ModelAdmin):
      list_display = ('created_date', 'value' , 'info')
      list_per_page = 25
-     actions = None   
+    # actions = None   
      list_display_links = None 
       
 

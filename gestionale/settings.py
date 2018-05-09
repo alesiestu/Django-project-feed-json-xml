@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = (
+    'admin_view_permission',
     'jet',
     'jet.dashboard',  
     'django.contrib.admin',
@@ -40,7 +41,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'conto',
-    'read_only_admin',
+    
 )
 
 MIDDLEWARE_CLASSES = (
