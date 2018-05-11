@@ -1,8 +1,13 @@
-# gestionale
+# Django-project-feed-json-xml
 
-piattaforma gestione clienti con django. 
+Project based on django framework for import data json and xml from platform extern . 
+
+For install : 
+
+guide not yet disponible 
+
+stay tuned ...........................
 
 
 
-Fase embrionale, per runnare : python manage.py runserver 0.0.0.0:5000
 
